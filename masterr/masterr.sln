@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masterr", "masterr.csproj", "{80D0E1C1-BDAC-47E0-A273-8ECD23A065FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D0E1C1-BDAC-47E0-A273-8ECD23A065FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D0E1C1-BDAC-47E0-A273-8ECD23A065FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D0E1C1-BDAC-47E0-A273-8ECD23A065FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D0E1C1-BDAC-47E0-A273-8ECD23A065FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA44F61-21AA-4B6C-96C9-42A0347D21FD}
+	EndGlobalSection
+EndGlobal
